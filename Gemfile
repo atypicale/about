@@ -7,6 +7,7 @@ gem 'rails', '3.2.9'
 
 gem 'mysql2'
 gem 'rack', '1.4.0'
+gem 'slim'
 
 # Gems used only for assets and not required
 # in production environments by default.
