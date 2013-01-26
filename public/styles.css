@@ -1,0 +1,42 @@
+body {
+  background-color:rgba(35, 70, 84, 1);
+  width:100%;
+  height:100%;
+  background-repeat:no-repeat;
+  overflow:hidden;
+  font-family:"Open Sans";
+}
+
+#header {
+	margin: auto;
+	height:100px;
+	width:600px;
+	border-radius: 8px;
+	background-color:rgba(255, 255, 255, 0.6);
+	overflow:hidden;
+}
+
+#header-words {
+	padding:10px;
+}
+
+#content {
+	margin: auto;
+	height:750px;
+	width: 600px;
+	border-radius: 8px;
+	background-color:rgba(255, 255, 255, 0.5);
+}
+
+#content-words {
+	margin-top:10px;
+	padding: 15px 25px 20px 20px;
+}
+
+.ref {
+	background-color:rgba(255, 255, 255, 0.3);
+	width:100%;
+	height: 200%;
+	padding-left: 6px;
+	border-radius: 8px;
+}
