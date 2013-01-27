@@ -9,7 +9,7 @@ body {
 
 #header {
 	margin: auto;
-	height:60px;
+	height:130px;
 	width:600px;
 	border-radius: 8px;
 	background-color: #D2E4ED;
@@ -19,7 +19,14 @@ body {
 	overflow:hidden;
 }
 
-#header-words {
+#header-top {
+	width:50%;
+	font-weight: 300;
+	font-size: 20pt; 
+	margin-left: 20px;
+}
+
+#header-bottom {
 	width:50%;
 	font-weight: 300;
 	font-size: 28pt; 
